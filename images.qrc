@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon.png">images/Line Chart.png</file>
+    </qresource>
+</RCC>
